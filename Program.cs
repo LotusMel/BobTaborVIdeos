@@ -44,7 +44,7 @@ namespace WorkingWithStrings
 
             for (int i = 1; i <= 100; i++)
             {
-                myString.Append("--");
+                myString.Append("-");
                 myString.Append(i);
             }
 
